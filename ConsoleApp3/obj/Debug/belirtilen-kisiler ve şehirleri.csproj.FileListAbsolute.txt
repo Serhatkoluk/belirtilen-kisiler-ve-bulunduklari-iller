@@ -1,0 +1,4 @@
+C:\Users\Serhat\Desktop\PT ODEV\ConsoleApp3\obj\Debug\belirtilen-kisiler ve şehirleri.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\ConsoleApp3\obj\Debug\belirtilen-kisiler ve şehirleri.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Serhat\Desktop\PT ODEV\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
